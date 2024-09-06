@@ -10,11 +10,11 @@ Kati Kamayoo is designed to extract detailed product information from Daraz Nepa
 
 
 ## Screenshots
-![App Screenshot](https://rewaj56.github.io/kati-kamayoo/screenshots/screenshot1.PNG)
+![App Screenshot](https://raw.githubusercontent.com/rewaj56/katikamayoo/main/screenshots/screenshot1.PNG)
 
-![App Screenshot](https://rewaj56.github.io/kati-kamayoo/screenshots/screenshot2.PNG)
+![App Screenshot](https://raw.githubusercontent.com/rewaj56/katikamayoo/main/screenshots/screenshot2.PNG)
 
-![App Screenshot](https://rewaj56.github.io/kati-kamayoo/screenshots/screenshot3.PNG)
+![App Screenshot](https://raw.githubusercontent.com/rewaj56/katikamayoo/main/screenshots/screenshot3.PNG)
 
 
 ## Demo
