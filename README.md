@@ -18,7 +18,7 @@ Kati Kamayoo is designed to extract detailed product information from Daraz Nepa
 
 
 ## Demo
-https://rewaj56.github.io/kati-kamayoo/
+https://katikamayoo.vercel.app/
 
 
 ## Badges
